@@ -1,0 +1,6 @@
+{
+  "name": "CAREAGENT",
+  "description": "Agen Cerdas Pengelola Aktivitas dan Tugas berbasis AI untuk meningkatkan produktivitas harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
